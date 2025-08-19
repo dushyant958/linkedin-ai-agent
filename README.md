@@ -226,20 +226,3 @@ npm run test:integration
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: [docs/](./docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-org/linkedin-ai-agent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/linkedin-ai-agent/discussions)
-
-## 🔗 Links
-
-- [LinkedIn API Documentation](https://developer.linkedin.com/)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [OpenAI API Documentation](https://platform.openai.com/docs)
-
----
-
-**Made with ❤️ by the LinkedIn AI Agent Team** 
